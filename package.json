@@ -1,0 +1,6 @@
+{
+  "name": "@ggrzegorz89/generator-randomid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
